@@ -49,6 +49,10 @@ flex-box stylings
 
 }
 
+.nav a:hover {
+	color: orange;
+}
+
 body {
 	margin-top: 3%;
 }
