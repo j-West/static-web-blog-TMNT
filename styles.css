@@ -1,3 +1,8 @@
+body {
+	box-sizing: border-box;
+}
+
+
 /****************
 flex-box stylings
 ******************/
@@ -11,13 +16,31 @@ flex-box stylings
 
 
 .primary {
-	background-color: pink;
+	background-color: silver;
 	width: 60%;
 
 }
 
 .secondary {
-	background-color: blue;
+	background-color: lightgrey;
 	width: 30%;
 
 }
+
+/****************
+stylings for secondary section
+******************/
+
+
+.secondary {
+
+	display: flex;
+	flex-direction: column;
+	align-content: center;
+
+
+}
+
+
+
+
