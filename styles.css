@@ -1,0 +1,23 @@
+/****************
+flex-box stylings
+******************/
+
+.flexwrapper {
+  display: flex;
+ justify-content: space-between;
+  flex-direction: row-reverse;
+
+}
+
+
+.primary {
+	background-color: pink;
+	width: 60%;
+
+}
+
+.secondary {
+	background-color: blue;
+	width: 30%;
+
+}
