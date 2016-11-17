@@ -75,3 +75,22 @@ p {
 h2 {
 	padding-left: 2em;
 }
+
+.home {
+	max-width: 120px;
+	margin-bottom: 0px;
+}
+.dropdown {
+	max-width: 120px;
+	margin-bottom: 0px;
+}
+
+
+.about {
+	max-width: 120px;
+	margin-bottom: 0px;
+}
+
+.blog {
+	max-width: 120px;
+	margin-bottom: 0px;
