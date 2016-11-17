@@ -48,6 +48,10 @@ flex-box stylings
 	padding-top: 2em;
 
 }
+.nav p {
+	text-align: center;
+	font-size: .5em;
+}
 
 .nav a:hover {
 	color: green;
