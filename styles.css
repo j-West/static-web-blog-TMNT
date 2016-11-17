@@ -16,31 +16,50 @@ flex-box stylings
 
 
 .primary {
-	background-color: silver;
-	width: 60%;
+	background-color: pink;
+	width: 50%;
+	margin: 5% 5% 0 0;
+	padding: 10% 5% 0 0;
+
 
 }
-
-.secondary {
-	background-color: lightgrey;
-	width: 30%;
-
-}
-
-/****************
-stylings for secondary section
-******************/
-
 
 .secondary {
 
 	display: flex;
 	flex-direction: column;
 	align-content: center;
+	background-color: blue;
+	width: 25%;
+
+
+}
+
+
+.nav {
+	display: flex;
+	flex-direction: column;
+
+
+}
+.nav a {
+	color: yellow;
+	text-decoration: none;
+	text-align: center;
 
 
 }
 
 
 
+
+
+	
+}
+
+/* Body top margin*/
+
+body {
+	margin-top: 3%;
+}
 
