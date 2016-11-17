@@ -42,7 +42,7 @@ flex-box stylings
 
 }
 .nav a {
-	color: yellow;
+	color: black;
 	text-decoration: none;
 	text-align: center;
 	padding-top: 2em;
@@ -50,7 +50,7 @@ flex-box stylings
 }
 
 .nav a:hover {
-	color: orange;
+	color: green;
 }
 
 body {
