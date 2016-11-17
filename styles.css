@@ -13,7 +13,7 @@ flex-box stylings
 .primary {
 	background-color: #FAFAFA;
 	width: 50%;
-	margin: 5% 5% 0 0;
+	margin: 5% 8% 0 0;
 	padding: 10% 5% 0 0;
 
 
@@ -26,7 +26,7 @@ flex-box stylings
 	align-content: center;
 	background-color: #FAFAFA;
 	width: 25%;
-	margin: 5% 0 0 5%;
+	margin: 5% 0 0 8%;
 
 
 }
@@ -64,3 +64,10 @@ img {
 	margin: 0 auto;
 }
 
+p {
+	padding: 0 3em 5em;
+}
+
+h2 {
+	padding-left: 2em;
+}
