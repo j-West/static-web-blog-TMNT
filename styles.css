@@ -13,7 +13,7 @@ flex-box stylings
 .primary {
 	background-color: #FAFAFA;
 	width: 50%;
-	margin: 5% 5% 0 0;
+	margin: 5% 8% 0 0;
 	padding: 10% 5% 0 0;
 
 
@@ -26,7 +26,7 @@ flex-box stylings
 	align-content: center;
 	background-color: #FAFAFA;
 	width: 25%;
-	margin: 5% 0 0 5%;
+	margin: 5% 0 0 8%;
 
 }
 .secondary > * {
@@ -52,13 +52,11 @@ flex-box stylings
 	font-size: .5em;
 }
 
-<<<<<<< HEAD
-=======
 .nav a:hover {
 	color: green;
 }
 
->>>>>>> 1d11fe05899a0a3be9fb4b7fd74aded6b0968a42
+
 body {
 	margin-top: 3%;
 	background-color: #F3F3F3;
@@ -70,6 +68,10 @@ img {
 	margin: 0 auto;
 }
 
-.nav a:hover {
-	color: orange;
+p {
+	padding: 0 3em 5em;
+}
+
+h2 {
+	padding-left: 2em;
 }
