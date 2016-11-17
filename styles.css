@@ -11,7 +11,7 @@ flex-box stylings
 
 
 .primary {
-	background-color: pink;
+	background-color: #FAFAFA;
 	width: 50%;
 	margin: 5% 5% 0 0;
 	padding: 10% 5% 0 0;
@@ -24,7 +24,7 @@ flex-box stylings
 	display: flex;
 	flex-direction: column;
 	align-content: center;
-	background-color: blue;
+	background-color: #FAFAFA;
 	width: 25%;
 
 
@@ -50,6 +50,7 @@ flex-box stylings
 
 body {
 	margin-top: 3%;
+	background-color: #F3F3F3;
 }
 
 
