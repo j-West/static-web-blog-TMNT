@@ -26,6 +26,7 @@ flex-box stylings
 	align-content: center;
 	background-color: #FAFAFA;
 	width: 25%;
+	margin: 5% 0 0 5%;
 
 
 }
@@ -46,6 +47,10 @@ flex-box stylings
 	text-align: center;
 	padding-top: 2em;
 
+}
+
+.nav a:hover {
+	color: orange;
 }
 
 body {
