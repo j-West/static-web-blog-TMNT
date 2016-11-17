@@ -28,7 +28,6 @@ flex-box stylings
 	width: 25%;
 	margin: 5% 0 0 5%;
 
-
 }
 .secondary > * {
 	padding: 5% 20%;
@@ -49,10 +48,6 @@ flex-box stylings
 
 }
 
-.nav a:hover {
-	color: orange;
-}
-
 body {
 	margin-top: 3%;
 	background-color: #F3F3F3;
@@ -64,3 +59,6 @@ img {
 	margin: 0 auto;
 }
 
+.nav a:hover {
+	color: orange;
+}
