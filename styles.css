@@ -12,12 +12,20 @@ flex-box stylings
 
 .primary {
 	background-color: pink;
-	width: 60%;
+	width: 50%;
+	margin: 5% 5% 0 0;
+	padding: 10% 5% 0 0;
 
 }
 
 .secondary {
 	background-color: blue;
-	width: 30%;
+	width: 25%;
+	margin: 5% 0 0 5%;
+}
 
+/* Body top margin*/
+
+body {
+	margin-top: 3%;
 }
