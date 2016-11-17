@@ -29,3 +29,8 @@ flex-box stylings
 body {
 	margin-top: 3%;
 }
+
+img {
+	display: block;
+	margin: 0 auto;
+}
