@@ -41,13 +41,24 @@ flex-box stylings
 
 }
 .nav a {
-	color: yellow;
+	color: black;
 	text-decoration: none;
 	text-align: center;
 	padding-top: 2em;
 
 }
+.nav p {
+	text-align: center;
+	font-size: .5em;
+}
 
+<<<<<<< HEAD
+=======
+.nav a:hover {
+	color: green;
+}
+
+>>>>>>> 1d11fe05899a0a3be9fb4b7fd74aded6b0968a42
 body {
 	margin-top: 3%;
 	background-color: #F3F3F3;
